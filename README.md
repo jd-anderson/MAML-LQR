@@ -1,12 +1,12 @@
-# Model-free Learning with Heterogeneous Dynamical Systems: A Federated LQR Approach
+# Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for the Model-free LQR
 
-This repository includes the MATLAB codes to implement the experimental results of the following paper:
+This repository includes the Python codes to implement the experimental results of the following paper:
 
-1) H. Wang, L. F. Toso, A. Mitra, J. Anderson (2022). [Model-free Learning with Heterogeneous Dynamical Systems: A Federated LQR Approach]
+1) L. F. Toso, D. Zhan, J. Anderson, and  H. Wang (2024). [Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for the Model-free LQR]
 
 ## Instructions
 
-To run the codes in this repository, you only need a working MATLAB installation. 
+To run the codes in this repository, you only need a working Jupyter installation.
 
 ## Troubleshooting
 
