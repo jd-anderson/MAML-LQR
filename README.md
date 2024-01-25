@@ -2,7 +2,7 @@
 
 This repository includes the Python codes to implement the experimental results of the following paper:
 
-1) L. F. Toso, D. Zhan, J. Anderson, and  H. Wang (2024). [Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for the Model-free LQR]
+1) L. F. Toso, D. Zhan, J. Anderson, and  H. Wang (2024). [Meta-Learning Linear Quadratic Regulators: A Policy Gradient MAML Approach for the Model-free LQR](https://github.com/jd-anderson/MAML-LQR/blob/main/MAML_LQR_technical_report.pdf)
 
 ## Instructions
 
